@@ -2,7 +2,7 @@
 
 A simple **To-do List mobile app** built with **React Native** to practice building basic mobile applications and understanding core concepts of React Native development.
 
-This project was created to learn the fundamentals of React Native including how to create components, manage state, handle user interactions and organize a simple app. :contentReference[oaicite:0]{index=0}
+This project was created to learn the fundamentals of React Native including how to create components, manage state, handle user interactions and organize a simple app.
 
 ---
 
